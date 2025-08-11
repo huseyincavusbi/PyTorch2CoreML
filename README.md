@@ -1,3 +1,4 @@
+# For detailed step-by-step instructions, see [USAGE.md](USAGE.md).
 # PyTorch2CoreML
 
 Convert trained PyTorch models to Apple's CoreML format for iOS/macOS deployment.
@@ -16,6 +17,7 @@ uv sync
 # Run notebook in VS Code or
 uv run jupyter notebook pytorch_to_coreml_conversion.ipynb
 ```
+# For detailed step-by-step instructions, see [USAGE.md](USAGE.md).
 
 ## Requirements
 
