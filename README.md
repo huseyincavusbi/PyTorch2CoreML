@@ -1,4 +1,3 @@
-# For detailed step-by-step instructions, see [USAGE.md](USAGE.md).
 # PyTorch2CoreML
 
 Convert trained PyTorch models to Apple's CoreML format for iOS/macOS deployment.
